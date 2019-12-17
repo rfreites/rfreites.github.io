@@ -16,7 +16,6 @@
 
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
-// const ghpages = require('gh-pages');
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
@@ -65,13 +64,3 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 //       })
 //   })
 // }
-
-/**
- * This task pushes to the `master` branch of the configured `repo`.
- */
-// ghpages.publish('docs', {
-//     branch: 'master',
-//     repo: 'https://github.com/rfreites/rfreites.github.io'
-//   }, function() {
-//       console.log('deploy done');
-//   });
