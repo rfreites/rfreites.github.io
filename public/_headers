@@ -6,7 +6,7 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
   Strict-Transport-Security: max-age=63072000
-/styles.30eac81ad9b899d46b95.css
+/styles.cd31ba35f71296a95421.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-ca73be0510cec1f30b5b.js
   Cache-Control: public, max-age=31536000, immutable
@@ -18,43 +18,43 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-index-js-916998ecb6de2acf1f79.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-6123c78767ae5a81fe98.js
+/webpack-runtime-6969999bf2761af2b4d8.js
   Cache-Control: public, max-age=31536000, immutable
-/app-3c4c05db5696b6de6a7a.js
+/app-e893d6a5c0255aaa7def.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/rfreites.github.io/404/
-  Link: </rfreites.github.io/webpack-runtime-6123c78767ae5a81fe98.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/app-3c4c05db5696b6de6a7a.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script
-/rfreites.github.io/blog/
-  Link: </rfreites.github.io/webpack-runtime-6123c78767ae5a81fe98.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/app-3c4c05db5696b6de6a7a.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/component---src-pages-blog-js-cb4a5ffeb88111f4d223.js>; rel=preload; as=script
-/rfreites.github.io/
-  Link: </rfreites.github.io/webpack-runtime-6123c78767ae5a81fe98.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/app-3c4c05db5696b6de6a7a.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/component---src-pages-index-js-916998ecb6de2acf1f79.js>; rel=preload; as=script
-/rfreites.github.io/404.html
-  Link: </rfreites.github.io/webpack-runtime-6123c78767ae5a81fe98.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/app-3c4c05db5696b6de6a7a.js>; rel=preload; as=script
-  Link: </rfreites.github.io/styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
-  Link: </rfreites.github.io/commons-f98466d393c992fd36e8.js>; rel=preload; as=script
-  Link: </rfreites.github.io/component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-6969999bf2761af2b4d8.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </app-e893d6a5c0255aaa7def.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script
+/blog/
+  Link: </webpack-runtime-6969999bf2761af2b4d8.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </app-e893d6a5c0255aaa7def.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </component---src-pages-blog-js-cb4a5ffeb88111f4d223.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-6969999bf2761af2b4d8.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </app-e893d6a5c0255aaa7def.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-916998ecb6de2acf1f79.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-6969999bf2761af2b4d8.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </app-e893d6a5c0255aaa7def.js>; rel=preload; as=script
+  Link: </styles-ca73be0510cec1f30b5b.js>; rel=preload; as=script
+  Link: </commons-f98466d393c992fd36e8.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-cb727a5ad32918090050.js>; rel=preload; as=script

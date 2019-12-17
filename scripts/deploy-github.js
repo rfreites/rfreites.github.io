@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://rfreites.github.io/rfreites.github.io/',
+    repo: 'https://github.com/rfreites/rfreites.github.io',
   },
   () => {
     console.log('Deploy Complete!')
