@@ -46,7 +46,7 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "deploy:github": "npm run build && node ./scripts/deploy-github",
-    "publish": "git subtree push --prefix public origin gh-pages"
+    "publishing": "git subtree push --prefix public origin gh-pages"
   },
   "repository": {
     "type": "git",
